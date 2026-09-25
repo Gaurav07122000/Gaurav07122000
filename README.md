@@ -52,9 +52,3 @@ A structured job portal equipped with a secure, multi-tier administrative panel.
 *   🔗 **Live Demo:** [Visit Form Visit](https://formvisit.com)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav07122000&show_icons=true&theme=radium" alt="GitHub Stats" />
-</div>
